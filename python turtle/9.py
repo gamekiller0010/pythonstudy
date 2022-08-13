@@ -1,0 +1,10 @@
+import turtle
+turtle.screensize(bg="blue")
+turtle.right(45)
+turtle.forward(80)
+turtle.right(90)
+turtle.forward(80)
+turtle.right(90)
+turtle.forward(80)
+turtle.right(90)
+turtle.forward(80)

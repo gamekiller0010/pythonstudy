@@ -1,0 +1,22 @@
+import turtle
+turtle.screensize(bg="pink")
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+
+turtle.left(45)
+turtle.forward(75)
+turtle.left(90)
+turtle.forward(75)
